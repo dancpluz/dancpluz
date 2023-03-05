@@ -6,13 +6,12 @@
 
 ## 📊 Stats
 
-
-  <picture>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dancpluz&show_icons=true&line_height=20&title_color=F7F7F7&text_color=F7F7F7&bg_color=0D0D0D&ring_color=F76B14&icon_color=F76B14&border_color=FACCA1"/>
-  </picture>
-  <picture>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancpluz&layout=compact&show_icons=true&title_color=F7F7F7&text_color=F7F7F7&bg_color=0D0D0D&border_color=FACCA1"/>
-  </picture>
+<picture>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dancpluz&show_icons=true&line_height=20&title_color=F7F7F7&text_color=F7F7F7&bg_color=0D0D0D&ring_color=F76B14&icon_color=F76B14&border_color=F7F7F7"/>
+</picture>
+<picture>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancpluz&layout=compact&show_icons=true&title_color=F7F7F7&text_color=F7F7F7&bg_color=0D0D0D&border_color=F7F7F7"/>
+</picture>
 
 
 ## 🧰 Languages
