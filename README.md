@@ -1,8 +1,8 @@
 ## 👋 Hi there 
 
-I'm Daniel, a fourth-semester Computer Science undergraduate from Brazil with big interest in frontend programming.
+🤠 I'm Daniel, a fourth-semester Computer Science undergraduate from Brazil with big interest in frontend programming.
 
-**Developing innovative applications that add value to people's lives is what motivates me every day, and I'm eager to become a full-stack developer.**
+✨ **Developing innovative applications that add value to people's lives is what motivates me every day, and I'm eager to become a full-stack developer.**
 
 ## 📊 Stats
 
@@ -13,14 +13,14 @@ I'm Daniel, a fourth-semester Computer Science undergraduate from Brazil with bi
 
 ## 🧰 Languages
 
-<div style="display: inline_block"><br>
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<a href="#">
+<img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</a>
 
 ## 👤 About Me
 
