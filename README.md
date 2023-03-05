@@ -35,16 +35,22 @@
   <img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </picture>
 
-
-## 👤 About Me
-
+<details>
+  <summary><h2>👤 About Me</h2></summary>
+  
 - I'm currently studying frontend programming and aim to become a **full-stack developer**.
+
 - I have a technical diploma in **Computer Graphics**, with skills in 3D modeling, video editing, drawing, audio editing, and design concepts.
+  
 - I'm also a **freelance** video editor with a passion for **graphic design**.
-
+  
 - Studying at one of Brazil's **best universities**.
+  
 - My studies have given me a strong **foundation** in fundamental Computer Science concepts such as calculus, algebra, statistics and hardware.
-
+  
 - I'm interested in working as a **trainee** to gain hands-on experience in the field and learn from experienced professionals.
+  
 - I believe my diverse skill set makes me a **valuable asset** to any team, and I'm always eager to **learn and grow**.
+  
 - I'm a great **communicator** and love meeting new people.
+</details>
