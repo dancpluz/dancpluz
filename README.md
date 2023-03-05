@@ -14,7 +14,7 @@
 </picture>
 
 
-## 🧰 Languages
+## 🧰 Languages and Tools
 
 <picture>
   <img alt="Python" align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
