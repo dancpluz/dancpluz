@@ -3,9 +3,9 @@
 🤠 I'm Daniel, a fourth-semester Computer Science undergraduate from Brazil.
 
 ```diff
--              graphic               
-!              design                
-+               is my                
+-              graphic              -
+!              design               !
++               is my               +
 @@             passion             @@
 ```
 
