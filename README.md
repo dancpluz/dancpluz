@@ -1,10 +1,10 @@
-## 👋 Hi there 
+## 👋 Yo
 
 🤠 I'm Daniel, a fourth-semester Computer Science undergraduate from Brazil.
 
 ```diff
--              Graphic               
-!              Design                
+-              graphic               
+!              design                
 +               is my                
 @@             passion             @@
 ```
@@ -43,21 +43,22 @@
 </picture>
 
 <details>
-  <summary><h2>👤 About Me</h2></summary>
+  <summary><h2>👤 Fun Facts</h2></summary>
   
-- I'm currently studying frontend programming and aim to become a **full-stack developer**.
+- 🌐 Currently studying **frontend**, mostly React framework.
+  
+- 💼 Interested in working as a **trainee** to gain hands-on experience in the field and learn from experienced professionals.
 
-- I have a technical diploma in **Computer Graphics**, with skills in 3D modeling, video editing, drawing, audio editing, and design concepts.
+- 🤹‍♂️ I believe my diverse skill set makes me a **valuable asset** to any team, and I'm always eager to **learn and grow**.
   
-- I'm also a **freelance** video editor with a passion for **graphic design**.
-  
-- Studying at one of Brazil's **best universities**.
-  
-- My studies have given me a strong **foundation** in fundamental Computer Science concepts such as calculus, algebra, statistics and hardware.
-  
-- I'm interested in working as a **trainee** to gain hands-on experience in the field and learn from experienced professionals.
-  
-- I believe my diverse skill set makes me a **valuable asset** to any team, and I'm always eager to **learn and grow**.
-  
-- I'm a great **communicator** and love meeting new people.
+-  🗣 Great **communicator** and love meeting new people.
+
+- 📽 **Freelance** video editor for about 2 years.
+
+- 🎓 I have a technical diploma in **Computer Graphics**, with skills in 3D modeling, video editing, drawing, and design concepts.
+
+- 💙💚 Studying at one of Brazil's **best universities**.
+
+- 📚 UnB gave me a strong **foundation** in fundamental CS concepts such as calculus, algebra, statistics and hardware.
+
 </details>
