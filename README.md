@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://github.com/dancpluz/dancpluz/blob/main/media/github-snake-dark.svg" title="🐍 These commits updates every 5 days!" alt="snake" />
+    <img src="https://raw.githubusercontent.com/dancpluz/dancpluz/refs/heads/output/github-contribution-grid-snake-dark.svg" title="🐍 These commits updates every 5 days!" alt="snake" />
    </a>
 </p>
 
