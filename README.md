@@ -43,7 +43,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/medina">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,blender" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -261,7 +261,7 @@
   
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,pr,bash" />
+    <img src="https://skillicons.dev/icons?i=postman,git,github,blender,figma,ps,ai,pr,bash" />
   </a>
 </p>
 
