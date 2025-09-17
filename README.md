@@ -150,7 +150,7 @@
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/aes_rsa_python">
-        <img src="https://placehold.co/600x400?text=AES+RSA" alt="AES RSA Python Image" />
+        <img src="https://raw.githubusercontent.com/dancpluz/aes_rsa_python/refs/heads/main/encrypt.gif" alt="AES RSA Python Image" />
       </a>
     </td>
   </tr>
@@ -184,7 +184,7 @@
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/html-analyzer">
-        <img src="https://placehold.co/600x400?text=HTML+Analyzer" alt="HTML Analyzer Image" />
+        <img src="https://raw.githubusercontent.com/dancpluz/html-analyzer/main/tree.gif" alt="HTML Analyzer Image" />
       </a>
     </td>
   </tr>
