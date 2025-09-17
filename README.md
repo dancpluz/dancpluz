@@ -65,7 +65,7 @@
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/portfolio-dancpluz">
-        <img src="https://placehold.co/600x400?text=Portfolio" alt="Portfolio Image" />
+        <img src="https://raw.githubusercontent.com/dancpluz/portfolio-dancpluz/refs/heads/master/public/dodecahedron.webp" alt="Portfolio Image" />
       </a>
     </td>
   </tr>
@@ -218,7 +218,7 @@
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/tic-tac-toe">
-        <img src="https://placehold.co/600x400?text=Tic+Tac+Toe" alt="Tic-Tac-Toe Image" />
+        <img src="https://raw.githubusercontent.com/dancpluz/tic-tac-toe/main/tictactoe.gif" alt="Tic-Tac-Toe Image" />
       </a>
     </td>
   </tr>
