@@ -4,7 +4,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/estoky">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=estoky&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=estoky&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -21,7 +21,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/ruadebaixo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=ruadebaixo&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=ruadebaixo&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -38,7 +38,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/medina">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=medina&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=medina&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -55,7 +55,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/portfolio-dancpluz">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=portfolio-dancpluz&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=portfolio-dancpluz&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -72,7 +72,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/node-mario-kart">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=node-mario-kart&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=node-mario-kart&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -89,7 +89,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/node-shopee-cart">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=node-shopee-cart&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=node-shopee-cart&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -106,7 +106,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/falaunb">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=falaunb&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=falaunb&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -123,7 +123,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/melodix">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=melodix&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=melodix&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -140,7 +140,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/aes_rsa_python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=aes_rsa_python&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=aes_rsa_python&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -157,7 +157,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/capoeira-form">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=capoeira-form&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=capoeira-form&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -174,7 +174,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/html-analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=html-analyzer&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=html-analyzer&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -191,7 +191,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/unb-hub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=unb-hub&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=unb-hub&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -208,7 +208,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/tic-tac-toe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=tic-tac-toe&theme=dark&icon_color=4493f8" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dancpluz&repo=tic-tac-toe&theme=dark&icon_color=4493f8&cache_seconds=86400" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -273,8 +273,8 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dancpluz&theme=dark&show_icons=true&icon_color=4493f8&show=prs_merged,prs_merged_percentage&hide=contribs,issues" alt="Dancpluz GitHub stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancpluz&size_weight=0.5&count_weight=0.5&theme=dark" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dancpluz&theme=dark&show_icons=true&icon_color=4493f8&show=prs_merged,prs_merged_percentage&hide=contribs,issues&cache_seconds=86400" alt="Dancpluz GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancpluz&size_weight=0.5&count_weight=0.5&theme=dark&cache_seconds=86400" alt="Top Langs" />
   </a>  
 </p>
 
