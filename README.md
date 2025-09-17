@@ -9,12 +9,12 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/estoky">
-          <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs" alt="Tech Stack Badges" />
+          <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,firebase,supabase" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/estoky">
-          <img src="https://placehold.co/600x400?text=Estoky" alt="Estoky Image" />
+          <img src="https://raw.githubusercontent.com/dancpluz/estoky/refs/heads/master/public/estoky-bg-w.png" alt="Estoky Image" />
       </a>
     </td>
   </tr>
@@ -26,12 +26,12 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/ruadebaixo">
-        <img src="https://skillicons.dev/icons?i=html,css,js,threejs" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,styledcomponents" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/ruadebaixo">
-          <img src="https://placehold.co/600x400?text=Rua+de+Baixo" alt="Rua de Baixo Image" />
+          <img src="https://raw.githubusercontent.com/dancpluz/ruadebaixo/935f254f8ef877e691a1513071fd20d1c157ce9e/public/assets/logonew.svg" alt="Rua de Baixo Image" />
       </a>
     </td>
   </tr>
@@ -43,7 +43,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/medina">
-        <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -60,7 +60,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/portfolio-dancpluz">
-        <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -77,12 +77,12 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/node-mario-kart">
-        <img src="https://skillicons.dev/icons?i=nodejs,js,html" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=nodejs,ts" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/node-mario-kart">
-        <img src="https://placehold.co/600x400?text=Node+Mario+Kart" alt="Node Mario Kart Image" />
+        <img src="https://raw.githubusercontent.com/dancpluz/node-mario-kart/refs/heads/main/imgs/header.gif" alt="Node Mario Kart Image" />
       </a>
     </td>
   </tr>
@@ -94,12 +94,12 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/node-shopee-cart">
-        <img src="https://skillicons.dev/icons?i=nodejs,js" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=nodejs,ts" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/node-shopee-cart">
-        <img src="https://placehold.co/600x400?text=Node+Shopee+Cart" alt="Node Shopee Cart Image" />
+        <img src="https://raw.githubusercontent.com/dancpluz/node-shopee-cart/main/shopee.gif" alt="Node Shopee Cart Image" />
       </a>
     </td>
   </tr>
@@ -111,12 +111,12 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/falaunb">
-        <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,js,styledcomponents" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/falaunb">
-        <img src="https://placehold.co/600x400?text=FalaUnB" alt="FalaUnB Image" />
+        <img src="https://raw.githubusercontent.com/dancpluz/falaunb/9b50a08c25c424105b8a538c8c204294475a0bca/assets/logo.svg" alt="FalaUnB Image" />
       </a>
     </td>
   </tr>
@@ -128,7 +128,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/melodix">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,supabase" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,js,nodejs,express" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -145,7 +145,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/aes_rsa_python">
-        <img src="https://skillicons.dev/icons?i=py,cpp" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=py" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -162,7 +162,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/capoeira-form">
-        <img src="https://skillicons.dev/icons?i=react,ts,css" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -179,7 +179,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/html-analyzer">
-        <img src="https://skillicons.dev/icons?i=nodejs,js,html" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -196,7 +196,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/unb-hub">
-        <img src="https://skillicons.dev/icons?i=py,fastapi" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -213,7 +213,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/dancpluz/tic-tac-toe">
-        <img src="https://skillicons.dev/icons?i=js,html,css" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=py" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -237,7 +237,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,java,cpp" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,java,cpp,express" />
   </a>
 </p>
 
@@ -261,7 +261,7 @@
   
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,pr" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,pr,bash" />
   </a>
 </p>
 
