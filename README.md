@@ -133,7 +133,7 @@
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/melodix">
-        <img src="https://placehold.co/600x400?text=Melodix" alt="Melodix Image" />
+        <img src="https://raw.githubusercontent.com/dancpluz/melodix/main/music.gif" alt="Melodix Image" />
       </a>
     </td>
   </tr>
@@ -167,7 +167,7 @@
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/capoeira-form">
-        <img src="https://placehold.co/600x400?text=Capoeira+Form" alt="Capoeira Form Image" />
+        <img src="https://cdn-icons-png.flaticon.com/512/2595/2595807.png" alt="Capoeira Form Image" />
       </a>
     </td>
   </tr>
