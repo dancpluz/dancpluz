@@ -106,7 +106,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/falaunb">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=falaunb&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=falaunb&theme=dark" />
       </a>
     </td>
     <td width="35%" align="center">
