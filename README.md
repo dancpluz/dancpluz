@@ -48,7 +48,7 @@
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/medina">
-        <img src="https://placehold.co/600x400?text=Medina" alt="Medina Image" />
+        <img src="https://raw.githubusercontent.com/dancpluz/medina/refs/heads/main/public/medina.gif" alt="Medina Image" />
       </a>
     </td>
   </tr>
@@ -151,6 +151,23 @@
     <td width="15%" align="center">
       <a href="https://github.com/dancpluz/aes_rsa_python">
         <img src="https://raw.githubusercontent.com/dancpluz/aes_rsa_python/refs/heads/main/encrypt.gif" alt="AES RSA Python Image" />
+      </a>
+    </td>
+  </tr>
+ <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/dancpluz/cine-guia">
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=cine-guia&theme=dark&icon_color=4493f8" />
+      </a>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://github.com/dancpluz/cine-guia">
+        <img src="https://skillicons.dev/icons?i=react,js,css" alt="Tech Stack Badges" />
+      </a>
+    </td>
+    <td width="15%" align="center">
+      <a href="https://github.com/dancpluz/cine-guia">
+        <img src="https://user-images.githubusercontent.com/64702639/222941850-0a6d835e-2f58-43ad-a7a5-805e9e808399.png" alt="Cineguia Logo" />
       </a>
     </td>
   </tr>
