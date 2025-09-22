@@ -4,7 +4,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/estoky">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=estoky&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=estoky&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -21,7 +21,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/ruadebaixo">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=ruadebaixo&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=ruadebaixo&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -38,7 +38,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/medina">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=medina&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=medina&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -55,7 +55,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/portfolio-dancpluz">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=portfolio-dancpluz&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=portfolio-dancpluz&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -71,25 +71,25 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/dancpluz/node-mario-kart">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=node-mario-kart&theme=dark&icon_color=4493f8" />
+      <a href="https://github.com/dancpluz/unb-hub">
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=unb-hub&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
-      <a href="https://github.com/dancpluz/node-mario-kart">
-        <img src="https://skillicons.dev/icons?i=nodejs,ts" alt="Tech Stack Badges" />
+      <a href="https://github.com/dancpluz/unb-hub">
+        <img src="https://skillicons.dev/icons?i=react,figma,typescript,tailwind,sqlite" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
-      <a href="https://github.com/dancpluz/node-mario-kart">
-        <img src="https://raw.githubusercontent.com/dancpluz/node-mario-kart/refs/heads/main/imgs/header.gif" alt="Node Mario Kart Image" />
+      <a href="https://github.com/dancpluz/unb-hub">
+        <img src="https://raw.githubusercontent.com/dancpluz/unb-hub/master/src/assets/icon.png" alt="UnB Hub Image" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/node-shopee-cart">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=node-shopee-cart&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=node-shopee-cart&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -123,7 +123,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/melodix">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=melodix&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=melodix&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -139,25 +139,42 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/dancpluz/aes_rsa_python">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=aes_rsa_python&theme=dark&icon_color=4493f8" />
+      <a href="https://github.com/dancpluz/node-mario-kart">
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=node-mario-kart&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
-      <a href="https://github.com/dancpluz/aes_rsa_python">
+      <a href="https://github.com/dancpluz/node-mario-kart">
+        <img src="https://skillicons.dev/icons?i=nodejs,ts" alt="Tech Stack Badges" />
+      </a>
+    </td>
+    <td width="15%" align="center">
+      <a href="https://github.com/dancpluz/node-mario-kart">
+        <img src="https://raw.githubusercontent.com/dancpluz/node-mario-kart/refs/heads/main/imgs/header.gif" alt="Node Mario Kart Image" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/dancpluz/aes-rsa-python">
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=aes-rsa-python&theme=dark&icon_color=4493f7" />
+      </a>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://github.com/dancpluz/aes-rsa-python">
         <img src="https://skillicons.dev/icons?i=py" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
-      <a href="https://github.com/dancpluz/aes_rsa_python">
-        <img src="https://raw.githubusercontent.com/dancpluz/aes_rsa_python/refs/heads/main/encrypt.gif" alt="AES RSA Python Image" />
+      <a href="https://github.com/dancpluz/aes-rsa-python">
+        <img src="https://raw.githubusercontent.com/dancpluz/aes-rsa-python/refs/heads/main/encrypt.gif" alt="AES RSA Python Image" />
       </a>
     </td>
   </tr>
  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/cine-guia">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=cine-guia&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=cine-guia&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -174,7 +191,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/capoeira-form">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=capoeira-form&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=capoeira-form&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -191,7 +208,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/html-analyzer">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=html-analyzer&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=html-analyzer&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -207,25 +224,8 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/dancpluz/unb-hub">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=unb-hub&theme=dark&icon_color=4493f8" />
-      </a>
-    </td>
-    <td width="35%" align="center">
-      <a href="https://github.com/dancpluz/unb-hub">
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind" alt="Tech Stack Badges" />
-      </a>
-    </td>
-    <td width="15%" align="center">
-      <a href="https://github.com/dancpluz/unb-hub">
-        <img src="https://placehold.co/600x400?text=UnB+Hub" alt="UnB Hub Image" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
       <a href="https://github.com/dancpluz/tic-tac-toe">
-        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=tic-tac-toe&theme=dark&icon_color=4493f8" />
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=tic-tac-toe&theme=dark&icon_color=4493f7" />
       </a>
     </td>
     <td width="35%" align="center">
@@ -262,7 +262,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=postgresql,supabase,firebase" />
+    <img src="https://skillicons.dev/icons?i=postgresql,supabase,firebase,sqlite" />
   </a>
 </p>
 
@@ -290,7 +290,7 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github-stats-rho-seven.vercel.app/api?username=dancpluz&theme=dark&show_icons=true&icon_color=4493f8&show=prs_merged,prs_merged_percentage&hide=contribs,issues" alt="Dancpluz GitHub stats" />
+    <img align="center" src="https://github-stats-rho-seven.vercel.app/api?username=dancpluz&theme=dark&show_icons=true&icon_color=4493f7&show=prs_merged,prs_merged_percentage&hide=contribs,issues" alt="Dancpluz GitHub stats" />
     <img align="center" src="https://github-stats-rho-seven.vercel.app/api/top-langs/?username=dancpluz&size_weight=0.5&count_weight=0.5&theme=dark" alt="Top Langs" />
   </a>  
 </p>
