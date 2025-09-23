@@ -14,15 +14,15 @@ I'm a developer who creates a lot of stuff, sometimes without a plan, but I lear
   </a>
 </p>
 
-## 🌱 Goals
+## Goals
 
-- Land a job as a Junior Full-Stack Developer 💻
+- Land an international job as a Junior Full-Stack Developer 💻
 - Build more than 40 projects 🛠️
 - Improve my project portfolio 💼
 - Contribute to open-source projects 🌐
 - Get certified in Cloud and Mobile Development ☁️
 
-## ⚡ Fun Facts
+## Fun Facts
 
 - I love capoeira
 - I run for fun
