@@ -16,17 +16,17 @@ I'm a developer who creates a lot of stuff, sometimes without a plan, but I lear
 
 ## Goals
 
-- Land an international job as a Junior Full-Stack Developer 💻
-- Build more than 40 projects 🛠️
-- Improve my project portfolio 💼
-- Contribute to open-source projects 🌐
-- Get certified in Cloud and Mobile Development ☁️
+- Land an **international** job as a **Junior Full-Stack Developer** 💻
+- Build more than **40 projects** 🛠️
+- Improve my skills on building **three.js** websites 🧊
+- Contribute to **open-source projects** 🌐
+- Get **certified** in **Cloud** and **Mobile Development** ☁️
 
 ## Fun Facts
 
-- I love capoeira
-- I run for fun
-- I once programmed games in assembly language
+- I love **capoeira**.
+- I run for **fun**.
+- I once programmed games in **assembly language**.
 
 # Projects
 
@@ -167,6 +167,23 @@ I'm a developer who creates a lot of stuff, sometimes without a plan, but I lear
       </a>
     </td>
   </tr>
+    <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/dancpluz/pokemon-assembly-version">
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=pokemon-assembly-version&theme=dark&icon_color=ffbf00" />
+      </a>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://github.com/dancpluz/pokemon-assembly-version">
+        <img src="https://raw.githubusercontent.com/github/explore/592cc967e9ebbc60f2a532f577efa072f4bfccaa/topics/riscv/riscv.png" width="64"/>
+      </a>
+    </td>
+    <td width="15%" align="center">
+      <a href="https://github.com/dancpluz/pokemon-assembly-version">
+        <img src="https://user-images.githubusercontent.com/64702639/222986019-f645f57e-ac03-4276-9da3-345a3dd31d1a.png" alt="Pokemon Assembly Version Image" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/node-mario-kart">
@@ -201,7 +218,41 @@ I'm a developer who creates a lot of stuff, sometimes without a plan, but I lear
       </a>
     </td>
   </tr>
- <tr>
+    <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/dancpluz/unbusca">
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=unbusca&theme=dark&icon_color=007fff" />
+      </a>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://github.com/dancpluz/unbusca">
+        <img src="https://skillicons.dev/icons?i=java,css" alt="Tech Stack Badges" />
+      </a>
+    </td>
+    <td width="15%" align="center">
+      <a href="https://github.com/dancpluz/unbusca">
+        <img src="https://user-images.githubusercontent.com/64702639/221646701-66a33e4f-07b9-4e4f-b1c0-b686697b5080.png" alt="Unbusca Image" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/dancpluz/estradinha">
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=estradinha&theme=dark&icon_color=800080" />
+      </a>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://github.com/dancpluz/estradinha">
+        <img src="https://raw.githubusercontent.com/github/explore/592cc967e9ebbc60f2a532f577efa072f4bfccaa/topics/riscv/riscv.png" width="64"/>
+      </a>
+    </td>
+    <td width="15%" align="center">
+      <a href="https://github.com/dancpluz/estradinha">
+        <img src="https://user-images.githubusercontent.com/64702639/223150532-f3cfeed5-54d5-431b-85b7-bc6be9a0708f.png" alt="Estradinha Image" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/dancpluz/cine-guia">
         <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=dancpluz&repo=cine-guia&theme=dark&icon_color=7fff00" />
