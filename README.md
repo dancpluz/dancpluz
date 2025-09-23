@@ -1,3 +1,33 @@
+# 👋 yo!
+
+I'm a developer who creates a lot of stuff, sometimes without a plan, but I learn incredibly well by doing. My focus is on **full-stack development**, with a special interest in **UI/UX** and **DevOps**.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-cunha-luz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dan08jan@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"" />
+  </a>
+  <a href="https://www.instagram.com/dancpluz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
+
+## 🌱 Goals
+
+- Land a job as a Junior Full-Stack Developer 💻
+- Build more than 40 projects 🛠️
+- Improve my project portfolio 💼
+- Contribute to open-source projects 🌐
+- Get certified in Cloud and Mobile Development ☁️
+
+## ⚡ Fun Facts
+
+- I love capoeira
+- I run for fun
+- I once programmed games in assembly language
+
 # Projects
 
 <table align="center">
